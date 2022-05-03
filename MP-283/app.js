@@ -42,5 +42,6 @@ function loadSelect() {
 //   // card.classList.remove("cardPrueba")
 // }
 
+// si esta conectado jajajajaj
 
 products.map(element => { console.log(element.name) });
